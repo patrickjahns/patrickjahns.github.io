@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://labs.patrickjahns.de/sitemap.xml
+Disallow: /ghost/
