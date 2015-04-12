@@ -763,18 +763,9 @@ main
 
 .post-time .fulldate
 {
-    display: none;
-}
-
-.post-time:hover .timeago
-{
-    display: none;
-}
-
-.post-time:hover .fulldate
-{
     display: inline;
 }
+
 
 /* ==========================================================================
    5. Single Post - When you click on an individual post
