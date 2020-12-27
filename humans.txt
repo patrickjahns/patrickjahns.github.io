@@ -1,0 +1,8 @@
+/* humanstxt.org */
+This website is build and maintained by Patrick Jahns.
+I am open for projects related to infrastructure and software engineering - contact me via:
+
+Twitter: @patrick_jahns
+Github: https://github.com/patrickjahns
+LinkedIn: https://www.linkedin.com/in/patrickjahns/
+Location: Earth
